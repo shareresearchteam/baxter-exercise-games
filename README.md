@@ -22,7 +22,7 @@ This folder contains an example MP3 file that can be used with the Strength Game
 
 This repostitory can be set up as a package in a ROS environment. It depends on also having the Baxter Software Development Kit installed and correctly configured. The games also require our open source Baxter Face Database, available here: https://github.com/nfitter/BaxterFaces. Provided all these things are set up corretly, you can launch a game with the following process.
 
-Move terminal directory to catkin_ws, for example, with:
+Change directory to catkin_ws, for example, with:
 ```bash
 cd catkin_ws/
 ```
