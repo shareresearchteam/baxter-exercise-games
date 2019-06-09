@@ -48,7 +48,7 @@ rostopic pub /robot/limb/left/suppress_contact_safety std_msgs/Empty -r 10
 rostopic pub /robot/limb/right/suppress_contact_safety std_msgs/Empty -r 10
 ```
 
-You can then move to the location of this repository (which should also contain the baxter faces in a folder called 'faces'). There, you can rosrun HandGames.py and launch your desired Baxter behavior (resetarms/hello/GameA/GameB/GameC/GameD/GameE/GameF/GameG/GameH).
+You can then move to the location of this repository (which should also contain the Baxter faces in a folder called 'faces'). There, you can rosrun HandGames.py and launch your desired Baxter behavior (resetarms/hello/GameA/GameB/GameC/GameD/GameE/GameF/GameG/GameH).
 
 ## License
 
