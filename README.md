@@ -1,6 +1,8 @@
 # Baxter Exercise Games
 
-This repository contains the source code for human-robot exercise games with the Rethink Robotics Baxter Research Robot. The eight games included in this code base (and an initial study using these activities) are further described in a journal article, currently under review.
+This repository contains the source code for human-robot exercise games with the Rethink Robotics Baxter Research Robot. The eight games included in this code base (and an initial study using these activities) are further described in the journal article:
+
+Fitter, N. T., Mohan, M., Kuchenbecker, K. J., & Johnson, M. J. (2020). Exercising with Baxter: preliminary support for assistive social-physical human-robot interaction. Journal of neuroengineering and rehabilitation, 17(1), 1-22.
 
 A video explaining how to play each exercise game are available here: https://youtu.be/5zlaqlJJpts
 
